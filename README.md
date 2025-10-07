@@ -27,7 +27,7 @@ Este repositório documenta todo o processo de criação do artigo técnico "Do 
 - [Desenvolvimento do Artigo](./prompts/prompt-artigo-completo.md)
 
 ## 🎨 Imagens Geradas
-- [Capa](./images/capa html.png)
+- [Lexica] (https://lexica.art)
 
 ## 📝 Licença
 Este projeto está sob a licença MIT. Sinta-se à vontade para utilizar e adaptar!
