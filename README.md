@@ -6,7 +6,7 @@ Artigo completo sobre elementos semânticos do HTML, criado com auxílio de IA.
 Este repositório documenta todo o processo de criação do artigo técnico "Do `<div>` ao `<article>`: Escolhendo o Elemento HTML Correto para Cada Situação", incluindo os prompts utilizados e assets gerados.
 
 ## 🔗 Link do Artigo
-📖 **[Leia o Artigo Completo Aqui]([./artigo-completo.md](https://web.dio.me/articles/do-div-ao-article-escolhendo-o-elemento-html-correto-para-cada-situacao-35a8cf14d5eb?back=/articles))**
+📖 **[Leia o Artigo Completo Aqui](https://web.dio.me/articles/do-div-ao-article-escolhendo-o-elemento-html-correto-para-cada-situacao-35a8cf14d5eb?back=/articles)**
 
 ## 🗂️ Estrutura do Repositório
 - `/prompts` - Todos os prompts utilizados na criação
